@@ -5,9 +5,6 @@
 *Read this in other languages: [中文](README.md), [English](README.en.md)* 
 
 
-## 更新日志：
-
-[更新日志搬到这里了](https://github.com/ssseasonnn/RxDownload/blob/master/CHANGE_LOG.md)
 
 
 ## 效果图
@@ -288,11 +285,9 @@ File file = rxDownload.getRealFiles(saveName,savePath)[0];
 
 若您想对该项目来进行交流,可以通过以下方式:
 
-QQ : 270362455
 
-QQ群：603610731
+QQ群：178852651验证码022
 
-Gmail: ssseasonnn@gmail.com
 
 ### License
 
