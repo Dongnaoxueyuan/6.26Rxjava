@@ -124,7 +124,7 @@ Disposable disposable = RxDownload.getInstance(context)
 
 提供给RxJava的Compose操作符使用，例如与RxPermission结合使用
 
-> RxPermission是为Android 6.0解决运行时权限的一个库, 这里是该库的地址: [RxPermission](https://github.com/tbruyelle/RxPermissions)
+> RxPermission是为Android 6.0解决运行时权限的一个库, 这里是该库的地址: [RxPermission](https://github.com/Dongnaoxueyuan/6.26RxPermissions)
 
 ```java
 disposable =  RxPermissions.getInstance(mContext)
