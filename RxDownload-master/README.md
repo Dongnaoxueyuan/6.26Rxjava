@@ -288,6 +288,10 @@ File file = rxDownload.getRealFiles(saveName,savePath)[0];
 
 QQ群：178852651验证码022
 
+欢迎关注微信公众号
+
+![](http://mmbiz.qpic.cn/mmbiz_jpg/SGLMEl6egy86amMN9XlltwZamViaKibz8J4aVZB5XqU1SwIhLHe3ZMiaTv4tMmNo0YUqJbZbrjfsQemWnp0LpeSpg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+
 
 ### License
 
